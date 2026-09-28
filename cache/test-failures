@@ -1,0 +1,1 @@
+{"version":1,"failures":[{"contract":"test/SentinelFeeHook.t.sol:SentinelFeeHookTest","test":"test_beforeSwap_neverRevertsWhenStale"},{"contract":"test/SentinelFeeHook.t.sol:SentinelFeeHookTest","test":"test_pushRiskScore_rejectsAncientTimestamp"}]}
