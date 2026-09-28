@@ -76,7 +76,7 @@ downstream of score quality.
 
 ```bash
 # install foundry: https://getfoundry.sh
-forge test                    # 23 unit tests: fee math, caps, staleness fallback,
+forge test                    # 21 unit tests: fee math, caps, staleness fallback,
                               # EIP-712 auth, nonce-chain replay protection, permissions
 python3 backtest/simulate.py   # uses cached candles; re-fetches from Coinbase if deleted
 ```
